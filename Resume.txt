@@ -1,0 +1,27 @@
+- Link personalizável
+- Facebook pixel 
+- Fundo da página (Imagem, cor fixa, cor degradê)
+
+Distribuicão da página 
+- imagem da página
+- titulo da página 
+- descricão 
+
+Links (ordenando como quiser)
+- texto 
+- link
+- cor do texto 
+- cor do fundo 
+- tipo de borda 
+- tipo de borda (quadrada, arredondada)
+
+- Feito pela Ignácio Corp.
+
+- histórico de views 
+- histórico de clicks em casa link
+
+Table
+- usuários
+- x páginas
+- x links
+ 
