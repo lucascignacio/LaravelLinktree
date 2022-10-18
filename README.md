@@ -9,6 +9,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+The application is used for you to create, edit and upload a Linktree page, where you don't have to worry about customizations as the service already provides them. All very easy and intuitive
+
 In this repository, we simuldured a link with links and profiles, run the project and see how cool it was!
 
 Let's jump  to it
